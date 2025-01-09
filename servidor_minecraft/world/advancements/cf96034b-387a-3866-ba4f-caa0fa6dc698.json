@@ -629,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-01-09 22:06:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-09 21:42:50 +0000"
@@ -3830,6 +3836,12 @@
   "smallships:recipes/spruce_cog": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-01-09 22:06:58 +0000"
     },
     "done": true
   },
