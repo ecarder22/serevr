@@ -1764,3 +1764,57 @@ java.lang.NullPointerException: null
 [09Jan2025 21:06:21.857] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2978, y=96, z=-2307} BlockPos{x=-2978, y=94, z=-2308}
 [09Jan2025 21:06:21.913] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2978, y=96, z=-2307} BlockPos{x=-2978, y=94, z=-2308}
 [09Jan2025 21:06:21.961] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2978, y=96, z=-2307} BlockPos{x=-2978, y=94, z=-2308}
+[09Jan2025 21:07:38.639] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[09Jan2025 21:07:38.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[09Jan2025 21:07:38.640] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. The following Time Shall Not Pass modules have been toggled on: Daylight Cycle Module
+[09Jan2025 21:08:04.967] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b4de98f
+[09Jan2025 21:08:04.982] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:43733] logged in with entity id 3718 at (-2949.01619056827, 64.0, -2277.5053393400744)
+[09Jan2025 21:08:04.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[09Jan2025 21:08:05.090] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: A non-excluded player has come online. The following Time Shall Not Pass modules have been toggled off: Daylight Cycle Module
+[09Jan2025 21:08:05.119] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@470545a7 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[09Jan2025 21:08:05.120] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@511ec8e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[09Jan2025 21:08:06.313] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b18776c
+[09Jan2025 21:08:06.323] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:39137] logged in with entity id 3867 at (-2978.08535697584, 67.0, -2304.2292787738934)
+[09Jan2025 21:08:06.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[09Jan2025 21:08:06.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -------------------- Server Notice --------------------
+[09Jan2025 21:08:06.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: If playing on LAN or Essential servers, you may experience constant kicks on Owlkin and Void Wyvern. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.
+[09Jan2025 21:08:06.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
+[09Jan2025 21:08:06.471] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@470545a7 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[09Jan2025 21:08:06.475] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@511ec8e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[09Jan2025 21:16:33.150] [Worker-Main-3/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[09Jan2025 21:16:33.152] [Worker-Main-3/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[09Jan2025 21:16:33.188] [Worker-Main-3/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[09Jan2025 21:16:33.189] [Worker-Main-3/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[09Jan2025 21:16:35.122] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/savanna_compost_pile
+[09Jan2025 21:16:38.302] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor2
+[09Jan2025 21:16:38.303] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle_corridor3
+[09Jan2025 21:16:38.309] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle3_black
+[09Jan2025 21:16:38.313] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/stairs_up_start
+[09Jan2025 21:16:38.325] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle3_rich
+[09Jan2025 21:16:38.331] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_nether
+[09Jan2025 21:16:38.339] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_rich
+[09Jan2025 21:16:38.343] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/puzzles/puzzle2_jungle
+[09Jan2025 21:16:38.344] [Worker-Main-11/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[09Jan2025 21:16:38.346] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/corner_corridor_left
+[09Jan2025 21:16:38.347] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor2
+[09Jan2025 21:16:38.348] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/corridors/straight_corridor
+[09Jan2025 21:16:38.355] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_wooden_door
+[09Jan2025 21:16:38.356] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_left
+[09Jan2025 21:16:38.358] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/fountain
+[09Jan2025 21:16:38.359] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/straight_corridor
+[09Jan2025 21:16:38.361] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/old_church
+[09Jan2025 21:16:38.364] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/large_quad
+[09Jan2025 21:16:38.365] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/chest_room
+[09Jan2025 21:16:38.366] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_iron_door
+[09Jan2025 21:16:38.367] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/enchanting_room
+[09Jan2025 21:16:38.368] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/straight_stairs
+[09Jan2025 21:16:38.369] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corridor_trapped
+[09Jan2025 21:16:38.371] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/cult_room
+[09Jan2025 21:16:38.374] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/prison
+[09Jan2025 21:16:38.377] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/stairs_up
+[09Jan2025 21:16:38.383] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/library
+[09Jan2025 21:16:38.385] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of endrem:end_gate/main/corner_corridor_quad
+[09Jan2025 21:16:45.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Best Friends Forever]
+[09Jan2025 21:17:20.794] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[09Jan2025 21:17:20.796] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[09Jan2025 21:17:20.822] [Worker-Main-11/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3

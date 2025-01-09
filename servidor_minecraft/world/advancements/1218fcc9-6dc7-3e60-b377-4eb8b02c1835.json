@@ -677,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-09 21:16:45 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-03 04:36:29 +0000"
@@ -716,6 +722,12 @@
   "smallships:recipes/lotr_aspen_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-09 21:03:19 +0000"
     },
     "done": true
   },
@@ -1212,6 +1224,12 @@
       "minecraft:soul_sand_valley": "2025-01-09 04:26:21 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-09 21:02:48 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1897,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-09 21:03:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mirk_oak_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -2332,6 +2356,12 @@
   "smallships:recipes/lotr_pear_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-09 21:03:19 +0000"
     },
     "done": true
   },
@@ -3169,6 +3199,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-04 04:01:10 +0000",
       "minecraft:skeleton": "2025-01-09 03:13:56 +0000",
+      "minecraft:guardian": "2025-01-09 21:02:46 +0000",
       "minecraft:spider": "2025-01-04 03:56:56 +0000",
       "minecraft:husk": "2025-01-09 03:22:19 +0000",
       "minecraft:silverfish": "2025-01-08 21:35:37 +0000",
@@ -3470,6 +3501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-09 21:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-03 21:13:55 +0000"
@@ -3545,6 +3582,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-05 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-09 21:02:48 +0000"
     },
     "done": true
   },
@@ -3930,6 +3973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-09 21:02:48 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cedar_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -4134,6 +4183,12 @@
   "undergarden:recipes/undergarden_group/shard_to_chunk": {
     "criteria": {
       "has_shard": "2025-01-04 18:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-09 21:03:19 +0000"
     },
     "done": true
   },
@@ -5096,6 +5151,13 @@
       "has_stone": "2025-01-05 21:15:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/all_black.png": "2025-01-09 21:17:04 +0000",
+      "textures/entity/cat/red.png": "2025-01-09 21:16:45 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/bop_hellbark_galley": {
     "criteria": {
