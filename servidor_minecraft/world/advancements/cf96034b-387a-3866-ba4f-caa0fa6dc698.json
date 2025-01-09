@@ -2269,6 +2269,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-01-09 22:23:13 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:sneak_village": {
     "criteria": {
       "steal_crystal": "2025-01-03 22:03:20 +0000"

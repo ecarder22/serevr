@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2025-01-09 22:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-01-05 21:15:44 +0000"
@@ -2023,6 +2029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_magenta_dye": "2025-01-09 22:25:58 +0000"
+    },
+    "done": true
+  },
   "easypaxellite:golden_paxel": {
     "criteria": {
       "has_tools": "2025-01-04 17:43:43 +0000"
@@ -3359,6 +3371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-01-09 22:25:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-01-08 20:17:00 +0000"
@@ -3862,6 +3880,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/thallasium_nugget_from_blasting": {
+    "criteria": {
+      "has_thallasium_helmet": "2025-01-09 22:19:11 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mallorn_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -3961,6 +3985,12 @@
   "smallships:recipes/lotr_lairelosse_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_nugget_from_smelting": {
+    "criteria": {
+      "has_thallasium_helmet": "2025-01-09 22:19:11 +0000"
     },
     "done": true
   },
