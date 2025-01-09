@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-09 21:30:30 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2025-01-03 04:36:29 +0000"
@@ -2017,6 +2023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-09 21:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-02 21:03:55 +0000"
@@ -2392,6 +2404,12 @@
   "minecraft:recipes/decorations/pink_glazed_terracotta": {
     "criteria": {
       "has_pink_terracotta": "2025-01-08 20:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-09 21:32:54 +0000"
     },
     "done": true
   },
@@ -2912,6 +2930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-09 21:27:37 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_redwood_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -3232,6 +3256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-09 21:27:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_apple_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -3277,6 +3307,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 19:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-09 21:27:40 +0000"
     },
     "done": true
   },
@@ -3821,6 +3857,12 @@
   "smallships:recipes/lotr_mallorn_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-09 21:27:40 +0000"
     },
     "done": true
   },
