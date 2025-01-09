@@ -3228,6 +3228,7 @@
       "minecraft:spider": "2025-01-04 03:56:56 +0000",
       "minecraft:husk": "2025-01-09 03:22:19 +0000",
       "minecraft:silverfish": "2025-01-08 21:35:37 +0000",
+      "minecraft:stray": "2025-01-09 21:45:34 +0000",
       "minecraft:zombie": "2025-01-06 21:17:52 +0000"
     },
     "done": false
@@ -3715,6 +3716,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2025-01-02 22:01:07 +0000",
+      "minecraft:cold_ocean": "2025-01-09 21:42:58 +0000",
       "minecraft:mountains": "2025-01-02 21:33:10 +0000",
       "minecraft:forest": "2025-01-03 20:03:08 +0000",
       "minecraft:taiga": "2025-01-02 20:59:59 +0000",
