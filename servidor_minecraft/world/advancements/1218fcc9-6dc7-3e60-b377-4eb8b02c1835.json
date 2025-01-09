@@ -2950,6 +2950,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_fishing_ship": "2025-01-09 21:23:31 +0000",
       "entered_ruined_building": "2025-01-05 17:56:02 +0000",
       "entered_desert_tomb": "2025-01-08 20:26:06 +0000"
     },
@@ -4009,6 +4010,12 @@
     },
     "done": true
   },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2025-01-09 21:20:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-04 18:12:22 +0000"
@@ -4018,6 +4025,12 @@
   "undergarden:undergarden/slay_rotling": {
     "criteria": {
       "slay_rotling": "2025-01-08 21:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-09 21:26:47 +0000"
     },
     "done": true
   },
