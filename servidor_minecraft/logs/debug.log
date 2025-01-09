@@ -13537,3 +13537,22 @@ java.lang.NullPointerException: null
 [09Jan2025 22:29:30.170] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-212,-175]
 [09Jan2025 22:29:30.170] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-212,-175]
 [09Jan2025 22:29:58.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[09Jan2025 22:32:10.533] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Jan2025 22:32:10.545] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Jan2025 22:35:54.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[09Jan2025 22:37:10.573] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Jan2025 22:37:10.586] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Jan2025 22:38:18.106] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/3x3_tnt
+[09Jan2025 22:38:18.110] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_fountain
+[09Jan2025 22:38:18.114] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/4room_plain
+[09Jan2025 22:38:18.116] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_cobweb
+[09Jan2025 22:38:18.118] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[09Jan2025 22:38:18.120] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/triple_plain
+[09Jan2025 22:38:18.125] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_plain
+[09Jan2025 22:38:18.133] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_plain
+[09Jan2025 22:38:18.137] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_parkour
+[09Jan2025 22:38:18.138] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/misc/endpoint
+[09Jan2025 22:38:21.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[09Jan2025 22:38:50.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2964.5, 70.5, -2075.5]
+[09Jan2025 22:38:59.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[09Jan2025 22:40:00.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [Masquerade]

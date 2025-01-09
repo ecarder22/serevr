@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2025-01-09 22:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-01-05 21:15:44 +0000"
@@ -476,6 +482,12 @@
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2025-01-03 04:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-09 22:29:49 +0000"
     },
     "done": true
   },
@@ -2701,6 +2713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2025-01-09 22:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 17:51:07 +0000"
@@ -3055,6 +3073,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 17:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-01-09 22:28:13 +0000"
     },
     "done": true
   },
@@ -3755,6 +3779,7 @@
       "minecraft:river": "2025-01-02 20:58:59 +0000",
       "minecraft:lukewarm_ocean": "2025-01-02 21:15:34 +0000",
       "minecraft:wooded_mountains": "2025-01-03 20:08:52 +0000",
+      "minecraft:swamp": "2025-01-09 22:29:02 +0000",
       "minecraft:savanna": "2025-01-02 22:05:09 +0000",
       "minecraft:plains": "2025-01-03 20:15:44 +0000"
     },
@@ -3931,6 +3956,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-01-02 21:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2025-01-09 22:29:49 +0000"
     },
     "done": true
   },
@@ -4624,6 +4655,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_chiseled_red_sandstone": "2025-01-08 20:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-01-09 22:28:13 +0000"
     },
     "done": true
   },
