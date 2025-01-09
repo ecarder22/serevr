@@ -1948,3 +1948,10 @@ java.lang.NullPointerException: null
 [09Jan2025 21:48:11.565] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 90'/35085, l='ServerLevel[world]', x=-1883.37, y=47.00, z=-1681.62] to SunkenSkeletonEntity['Skeleton - Level: 90'/35418, l='ServerLevel[world]', x=-1883.37, y=47.00, z=-1681.62]
 [09Jan2025 21:48:14.226] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted SkeletonEntity['Skeleton - Level: 103'/35083, l='ServerLevel[world]', x=-1887.51, y=47.00, z=-1681.85] to SunkenSkeletonEntity['Skeleton - Level: 103'/35449, l='ServerLevel[world]', x=-1887.51, y=47.00, z=-1681.85]
 [09Jan2025 21:48:37.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[09Jan2025 21:50:58.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[09Jan2025 21:51:06.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[09Jan2025 21:53:39.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled the Ordinary affix on their Diamond Sword.
+[09Jan2025 21:53:48.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +1
+[09Jan2025 21:55:29.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY rolled a scroll upgrade of Guardian +2
+[09Jan2025 21:55:55.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled the Junk affix on their Diamond Sword...
+[09Jan2025 21:56:41.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki rolled a scroll upgrade of Guardian +1
