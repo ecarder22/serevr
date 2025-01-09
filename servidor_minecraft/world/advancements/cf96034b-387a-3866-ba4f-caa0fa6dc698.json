@@ -1543,6 +1543,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/orange_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-09 22:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-01-02 21:22:26 +0000"
@@ -1954,6 +1960,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-01-06 19:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-09 22:10:55 +0000"
     },
     "done": true
   },
@@ -3791,6 +3803,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-09 22:10:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-01-08 20:14:07 +0000"
@@ -3938,6 +3956,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-04 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-09 22:10:55 +0000"
     },
     "done": true
   },
@@ -5304,6 +5328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-01-09 22:10:55 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_cog": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -5775,6 +5805,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-03 20:41:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_orange_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-09 22:10:55 +0000"
     },
     "done": true
   },
