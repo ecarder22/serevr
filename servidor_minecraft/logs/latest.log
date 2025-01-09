@@ -2041,3 +2041,32 @@ java.lang.NullPointerException: null
 [09Jan2025 22:49:33.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to 0.5, 100.0, 0.5]
 [09Jan2025 22:50:39.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2566.5, 80.5, -1147.5]
 [09Jan2025 22:50:53.900] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_long
+[09Jan2025 22:50:58.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[09Jan2025 22:51:25.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2354.5, 91.5, -1543.5]
+[09Jan2025 22:52:05.976] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[09Jan2025 22:53:25.897] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/3x3_pillars
+[09Jan2025 22:53:25.900] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_base
+[09Jan2025 22:53:25.901] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_cobweb
+[09Jan2025 22:53:25.902] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/right_plain
+[09Jan2025 22:53:25.905] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_plain
+[09Jan2025 22:53:25.907] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_melon
+[09Jan2025 22:53:25.909] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
+[09Jan2025 22:55:50.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[09Jan2025 22:56:44.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[09Jan2025 22:57:46.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2919.5, 64.5, -2299.5]
+[09Jan2025 22:59:25.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[09Jan2025 22:59:25.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Killed fr4nnki]
+[09Jan2025 22:59:29.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[09Jan2025 22:59:32.141] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[09Jan2025 22:59:32.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki fell out of the world
+[09Jan2025 22:59:32.143] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-2950, y=64, z=-2264}
+[09Jan2025 22:59:32.143] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[09Jan2025 22:59:33.824] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@470545a7 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[09Jan2025 22:59:33.824] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@511ec8e (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[09Jan2025 22:59:52.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <fr4nnki> xaero-waypoint:A:A:-123:69:184:12:false:0:Internal-overworld-waypoints
+[09Jan2025 23:00:08.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2923.5, 64.5, -2270.5]
+[09Jan2025 23:00:41.712] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[09Jan2025 23:00:41.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[09Jan2025 23:00:41.914] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[09Jan2025 23:00:41.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[09Jan2025 23:00:41.914] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. The following Time Shall Not Pass modules have been toggled on: Daylight Cycle Module

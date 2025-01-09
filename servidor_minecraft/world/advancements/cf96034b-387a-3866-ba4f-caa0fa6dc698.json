@@ -4256,6 +4256,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2025-01-02 22:00:57 +0000",
+      "minecraft:cold_ocean": "2025-01-09 22:49:54 +0000",
       "minecraft:forest": "2025-01-03 20:02:44 +0000",
       "minecraft:mountains": "2025-01-03 20:08:39 +0000",
       "minecraft:taiga": "2025-01-02 21:17:38 +0000",
