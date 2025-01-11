@@ -1853,3 +1853,23 @@ java.lang.NullPointerException: null
 [11Jan2025 04:29:56.203] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3bf0f9c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [11Jan2025 04:29:56.203] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4451bb26 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [11Jan2025 04:41:38.622] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
+[11Jan2025 04:47:36.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[11Jan2025 04:48:33.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has made the advancement [We do a little trolling...]
+[11Jan2025 04:49:37.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[11Jan2025 04:50:01.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[11Jan2025 04:50:12.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[11Jan2025 04:50:36.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[11Jan2025 04:50:38.853] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[11Jan2025 04:50:38.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[11Jan2025 04:50:38.853] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[11Jan2025 04:50:38.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was killed by magic
+[11Jan2025 04:50:38.855] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=504, y=91, z=567}
+[11Jan2025 04:50:38.856] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[11Jan2025 04:50:51.210] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@65b9e9c0
+[11Jan2025 04:50:51.218] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:52675] logged in with entity id 38085 at (504.49962199354394, 93.1747873645931, 567.502327400134)
+[11Jan2025 04:50:51.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[11Jan2025 04:50:51.317] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3bf0f9c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:50:51.318] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4451bb26 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:50:53.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[11Jan2025 04:53:14.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Barako, the Sun Chief - Level: 5063 has been slain!
+[11Jan2025 04:53:14.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has completed the challenge [Usurper]
