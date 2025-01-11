@@ -1746,3 +1746,42 @@ java.lang.NullPointerException: null
 [11Jan2025 03:57:46.062] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
 [11Jan2025 03:57:46.541] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
 [11Jan2025 04:04:55.297] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@357e87eb
+[11Jan2025 04:06:10.667] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6fcf37ec
+[11Jan2025 04:06:10.676] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:33831] logged in with entity id 2802 at (-2945.1279727170972, 64.875, -2265.4006582011275)
+[11Jan2025 04:06:10.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[11Jan2025 04:06:10.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -------------------- Server Notice --------------------
+[11Jan2025 04:06:10.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: If playing on LAN or Essential servers, you may experience constant kicks on Owlkin and Void Wyvern. Other Origins may experience kicks, but not as often. If you're playing on dedicated, these kicks will not occur and you can ignore this.
+[11Jan2025 04:06:10.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: -----------------------------------------------------
+[11Jan2025 04:06:10.830] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3bf0f9c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:06:10.831] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4451bb26 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:06:21.944] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@357e87eb
+[11Jan2025 04:07:04.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -122.5, 69.5, 184.5]
+[11Jan2025 04:07:16.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -2869.5, 66.5, -2280.5]
+[11Jan2025 04:07:23.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[11Jan2025 04:09:20.942] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/savanna_compost_pile
+[11Jan2025 04:12:08.374] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top_trapdoor
+[11Jan2025 04:12:08.376] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_long
+[11Jan2025 04:12:08.377] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_basement
+[11Jan2025 04:13:07.877] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/3x3_pillars
+[11Jan2025 04:13:07.881] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_base
+[11Jan2025 04:13:07.883] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_fountain
+[11Jan2025 04:13:07.884] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_cobweb
+[11Jan2025 04:13:07.885] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/right_plain
+[11Jan2025 04:13:07.888] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_plain
+[11Jan2025 04:13:07.890] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_melon
+[11Jan2025 04:13:07.893] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_plain
+[11Jan2025 04:13:07.896] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/misc/endpoint
+[11Jan2025 04:13:07.898] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_intersection
+[11Jan2025 04:13:14.931] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_ladder_medium
+[11Jan2025 04:13:37.789] [Worker-Main-3/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[11Jan2025 04:13:37.791] [Worker-Main-3/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[11Jan2025 04:13:37.840] [Worker-Main-3/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[11Jan2025 04:13:37.842] [Worker-Main-3/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[11Jan2025 04:13:38.344] [Worker-Main-21/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_2
+[11Jan2025 04:13:38.346] [Worker-Main-21/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_3
+[11Jan2025 04:13:38.349] [Worker-Main-21/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_1
+[11Jan2025 04:13:42.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
+[11Jan2025 04:14:56.647] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[11Jan2025 04:14:56.650] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[11Jan2025 04:14:56.829] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[11Jan2025 04:15:46.310] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/plains_compost_pile
