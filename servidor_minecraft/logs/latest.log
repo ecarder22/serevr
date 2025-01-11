@@ -1873,3 +1873,26 @@ java.lang.NullPointerException: null
 [11Jan2025 04:50:53.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
 [11Jan2025 04:53:14.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tier 1 Boss: ☠ Barako, the Sun Chief - Level: 5063 has been slain!
 [11Jan2025 04:53:14.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki has completed the challenge [Usurper]
+[11Jan2025 04:59:31.394] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Disconnected
+[11Jan2025 04:59:31.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[11Jan2025 04:59:31.847] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[11Jan2025 04:59:31.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[11Jan2025 04:59:31.848] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: All non-excluded players have gone offline. The following Time Shall Not Pass modules have been toggled on: Daylight Cycle Module
+[11Jan2025 05:00:31.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[11Jan2025 05:00:31.330] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[11Jan2025 05:00:31.330] [Server thread/INFO] [com.Gr3atsaga.TimeShallNotPass.Config.Managers.TimeShallNotPassModuleManager/]: Server is closing. The following Time Shall Not Pass modules have been toggled off: Daylight Cycle Module
+[11Jan2025 05:00:31.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jan2025 05:00:31.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jan2025 05:00:31.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jan2025 05:00:31.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jan2025 05:00:31.737] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jan2025 05:00:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jan2025 05:00:31.738] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jan2025 05:00:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jan2025 05:00:31.739] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jan2025 05:00:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[11Jan2025 05:00:31.740] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[11Jan2025 05:00:31.786] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jan2025 05:00:31.813] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jan2025 05:00:31.813] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jan2025 05:00:31.814] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
