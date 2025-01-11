@@ -2401,6 +2401,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/terminite_nugget_from_blasting": {
+    "criteria": {
+      "has_terminite_boots": "2025-01-11 19:58:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/spruce_pantry": {
     "criteria": {
       "has_spruce_trapdoor": "2025-01-02 22:03:10 +0000"
@@ -3388,6 +3394,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-01-03 20:44:47 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_nugget_from_smelting": {
+    "criteria": {
+      "has_terminite_boots": "2025-01-11 19:58:46 +0000"
     },
     "done": true
   },

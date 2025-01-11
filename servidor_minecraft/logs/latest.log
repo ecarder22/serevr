@@ -1789,3 +1789,45 @@ java.lang.NullPointerException: null
 [11Jan2025 19:43:34.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Voluntary Exile]
 [11Jan2025 19:48:26.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [11Jan2025 19:48:26.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: backup<--[HERE]
+[11Jan2025 20:00:23.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[11Jan2025 20:01:08.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[11Jan2025 20:01:23.919] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[11Jan2025 20:01:23.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by ☣ Special Vindicator - Level: 34
+[11Jan2025 20:01:23.921] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=556, y=126, z=616}
+[11Jan2025 20:01:23.921] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[11Jan2025 20:01:24.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported zZzK1TTY to fr4nnki]
+[11Jan2025 20:01:40.582] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5c912244 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 20:01:40.583] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3e4efd19 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 20:01:45.514] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[11Jan2025 20:01:53.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[11Jan2025 20:02:07.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[11Jan2025 20:02:22.640] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[11Jan2025 20:02:22.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by ☣ Special Vindicator - Level: 34
+[11Jan2025 20:02:22.643] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=564, y=128, z=633}
+[11Jan2025 20:02:22.643] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[11Jan2025 20:02:25.158] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5c912244 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 20:02:25.158] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3e4efd19 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 20:02:34.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to -2931.5, 67.5, -2281.5]
+[11Jan2025 20:02:36.291] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy_top
+[11Jan2025 20:02:56.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to fr4nnki]
+[11Jan2025 20:03:24.889] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=563, y=132, z=633} BlockPos{x=565, y=128, z=633}
+[11Jan2025 20:04:11.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[11Jan2025 20:05:09.919] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[11Jan2025 20:05:09.920] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[11Jan2025 20:05:09.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[11Jan2025 20:05:09.965] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[11Jan2025 20:07:04.773] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@ff6695b
+[11Jan2025 20:07:04.782] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:44503] logged in with entity id 21068 at (563.9337557774031, 122.96636804164123, 619.8099353035182)
+[11Jan2025 20:07:04.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[11Jan2025 20:07:04.918] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5c912244 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 20:07:04.919] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3e4efd19 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 20:07:06.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported fr4nnki to zZzK1TTY]
+[11Jan2025 20:07:40.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 563.5, 128.5, 632.5]
+[11Jan2025 20:08:27.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY is bleeding...
+[11Jan2025 20:08:42.270] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for zZzK1TTY
+[11Jan2025 20:08:42.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY was slain by Zombie - Level: 25
+[11Jan2025 20:08:42.272] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for zZzK1TTY at BlockPos{x=565, y=128, z=632}
+[11Jan2025 20:08:42.272] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player zZzK1TTY
+[11Jan2025 20:08:44.109] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5c912244 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 20:08:44.110] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3e4efd19 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 20:08:52.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zZzK1TTY: Teleported zZzK1TTY to 563.5, 128.5, 632.5]
