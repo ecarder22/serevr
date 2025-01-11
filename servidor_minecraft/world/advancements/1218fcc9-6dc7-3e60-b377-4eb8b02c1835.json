@@ -1169,6 +1169,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-11 19:14:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_armrest": {
     "criteria": {
       "has_planks": "2025-01-03 19:47:45 +0000"
