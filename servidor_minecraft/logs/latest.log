@@ -1785,3 +1785,70 @@ java.lang.NullPointerException: null
 [11Jan2025 04:14:56.650] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
 [11Jan2025 04:14:56.829] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
 [11Jan2025 04:15:46.310] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/plains_compost_pile
+[11Jan2025 04:17:24.460] [Worker-Main-20/WARN] [ModernFix/]: Structure quark:big_dungeon/starts/triplex_3sect is being run through DFU (hash 3e13d7081b8900919b6e0201c7a1d5eda28cb629356d75dbdeab02bfc3947bf4), this will cause launch time delays
+[11Jan2025 04:17:25.859] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/4room_trapped
+[11Jan2025 04:17:25.862] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_redstone
+[11Jan2025 04:17:25.866] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/triple_plain
+[11Jan2025 04:17:25.869] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/triple_library
+[11Jan2025 04:17:25.871] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/right_cobweb
+[11Jan2025 04:17:25.872] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_cobweb
+[11Jan2025 04:17:25.873] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_cobweb
+[11Jan2025 04:17:25.877] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_bridge
+[11Jan2025 04:17:25.880] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_room
+[11Jan2025 04:17:25.884] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/ascend_ruined
+[11Jan2025 04:17:25.887] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/connector_bush
+[11Jan2025 04:17:25.888] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/left_plain
+[11Jan2025 04:17:25.894] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/laddered_tnt
+[11Jan2025 04:17:25.901] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_plain
+[11Jan2025 04:17:25.904] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_parkour
+[11Jan2025 04:17:25.906] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/t_plain
+[11Jan2025 04:17:25.907] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/corridors/forward_plain
+[11Jan2025 04:17:25.909] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/climb_plain
+[11Jan2025 04:17:25.914] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/4room_plain
+[11Jan2025 04:17:25.918] [Worker-Main-20/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/rooms/double_hall_silverfish
+[11Jan2025 04:17:56.218] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_2
+[11Jan2025 04:17:56.219] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_3
+[11Jan2025 04:17:56.221] [Worker-Main-3/WARN] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_1
+[11Jan2025 04:17:57.891] [Server thread/INFO] [com.infamous.dungeons_mobs.DungeonsMobs/]: Converted StrayEntity['Stray - Level: 15'/15962, l='ServerLevel[world]', x=-1579.30, y=57.00, z=-978.33] to SunkenSkeletonEntity['Stray - Level: 15'/16763, l='ServerLevel[world]', x=-1579.30, y=57.00, z=-978.33]
+[11Jan2025 04:21:20.852] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[11Jan2025 04:21:20.885] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barako_throne
+[11Jan2025 04:21:20.886] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barakoa_house
+[11Jan2025 04:21:20.886] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barakoa_house_roof
+[11Jan2025 04:21:20.887] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of mowziesmobs:barakoa_house_side
+[11Jan2025 04:21:43.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[11Jan2025 04:21:58.352] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[11Jan2025 04:21:58.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was killed by magic
+[11Jan2025 04:21:58.360] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-405, y=61, z=-51}
+[11Jan2025 04:21:58.361] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[11Jan2025 04:21:59.678] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3bf0f9c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:21:59.679] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4451bb26 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:22:11.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -404.5, 63.5, -50.5]
+[11Jan2025 04:22:21.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki is bleeding...
+[11Jan2025 04:22:26.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[11Jan2025 04:22:38.760] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for fr4nnki
+[11Jan2025 04:22:38.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki was killed by magic
+[11Jan2025 04:22:38.763] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for fr4nnki at BlockPos{x=-529, y=68, z=-63}
+[11Jan2025 04:22:38.763] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player fr4nnki
+[11Jan2025 04:22:39.979] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3bf0f9c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:22:39.979] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4451bb26 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:22:42.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -527.5, 68.5, -61.5]
+[11Jan2025 04:25:07.554] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[11Jan2025 04:25:07.555] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[11Jan2025 04:25:07.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[11Jan2025 04:25:07.615] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[11Jan2025 04:25:20.864] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6d76193c
+[11Jan2025 04:25:20.872] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:39403] logged in with entity id 25590 at (-442.42332485129805, 63.76636799395752, -94.92120251987454)
+[11Jan2025 04:25:20.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[11Jan2025 04:25:20.958] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3bf0f9c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:25:20.959] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4451bb26 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:26:55.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to -122.5, 69.5, 184.5]
+[11Jan2025 04:29:07.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[11Jan2025 04:29:31.378] [Server thread/WARN] [ModernFix/]: Using cached upgraded version of quark:big_dungeon/starts/3x3_tnt
+[11Jan2025 04:29:39.292] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki was kicked for floating too long!
+[11Jan2025 04:29:39.351] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki lost connection: Flying is not enabled on this server
+[11Jan2025 04:29:39.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki left the game
+[11Jan2025 04:29:56.103] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4f0e862d
+[11Jan2025 04:29:56.109] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fr4nnki[/127.209.87.79:39767] logged in with entity id 29693 at (214.7687227216083, 69.53584062504456, 528.569882461245)
+[11Jan2025 04:29:56.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
+[11Jan2025 04:29:56.203] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3bf0f9c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:29:56.203] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4451bb26 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
