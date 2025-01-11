@@ -1852,3 +1852,4 @@ java.lang.NullPointerException: null
 [11Jan2025 04:29:56.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fr4nnki joined the game
 [11Jan2025 04:29:56.203] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3bf0f9c (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [11Jan2025 04:29:56.203] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@4451bb26 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 04:41:38.622] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: fr4nnki moved wrongly!
