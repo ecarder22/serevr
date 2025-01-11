@@ -1573,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-11 19:38:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1858,6 +1864,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-01-05 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-11 19:38:49 +0000"
     },
     "done": true
   },
@@ -3369,6 +3381,7 @@
       "minecraft:pillager": "2025-01-04 04:01:10 +0000",
       "minecraft:skeleton": "2025-01-09 03:13:56 +0000",
       "minecraft:guardian": "2025-01-09 21:02:46 +0000",
+      "minecraft:vindicator": "2025-01-11 19:35:26 +0000",
       "minecraft:spider": "2025-01-04 03:56:56 +0000",
       "minecraft:husk": "2025-01-09 03:22:19 +0000",
       "minecraft:silverfish": "2025-01-08 21:35:37 +0000",
@@ -3428,6 +3441,12 @@
   "smallships:recipes/lotr_cherry_brigg": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-11 19:43:34 +0000"
     },
     "done": true
   },

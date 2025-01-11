@@ -1779,3 +1779,13 @@ java.lang.NullPointerException: null
 [11Jan2025 19:33:35.497] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5c912244 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [11Jan2025 19:33:35.497] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3e4efd19 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
 [11Jan2025 19:33:38.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [fr4nnki: Teleported fr4nnki to zZzK1TTY]
+[11Jan2025 19:39:51.172] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zZzK1TTY lost connection: Disconnected
+[11Jan2025 19:39:51.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY left the game
+[11Jan2025 19:39:59.039] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d9407b7
+[11Jan2025 19:39:59.047] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zZzK1TTY[/127.209.87.79:51847] logged in with entity id 10384 at (561.3000000119209, 70.5, 632.3455033432507)
+[11Jan2025 19:39:59.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY joined the game
+[11Jan2025 19:39:59.163] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@5c912244 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 19:39:59.163] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize me.paulf.wings.server.command.WingsArgument@3e4efd19 (class me.paulf.wings.server.command.WingsArgument) - will not be sent to client!
+[11Jan2025 19:43:34.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zZzK1TTY has made the advancement [Voluntary Exile]
+[11Jan2025 19:48:26.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[11Jan2025 19:48:26.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: backup<--[HERE]
