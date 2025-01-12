@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-01-12 20:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-01-05 19:11:35 +0000"
@@ -116,6 +122,12 @@
   "smallships:recipes/lotr_larch_brigg": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-12 20:46:57 +0000"
     },
     "done": true
   },
@@ -491,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2025-01-12 20:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-04 17:55:22 +0000"
@@ -665,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-12 20:46:57 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -716,6 +740,12 @@
   "smallships:recipes/bop_jacaranda_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_purple_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-12 20:47:14 +0000"
     },
     "done": true
   },
@@ -962,6 +992,12 @@
   "smallships:recipes/oak_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-01-12 20:47:14 +0000"
     },
     "done": true
   },
@@ -1277,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2025-01-12 21:02:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2025-01-08 20:11:30 +0000"
@@ -1451,6 +1493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2025-01-12 20:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 21:50:05 +0000"
@@ -1592,6 +1640,12 @@
       "in_pyramid_flower_forest": "2025-01-08 20:32:07 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-12 20:41:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
@@ -2184,6 +2238,12 @@
   "smallships:recipes/lotr_pear_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/purple_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-12 20:47:14 +0000"
     },
     "done": true
   },
@@ -2781,6 +2841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-12 20:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-09 22:38:12 +0000"
@@ -3165,6 +3231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-12 20:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 17:21:31 +0000"
@@ -3204,6 +3276,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 17:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-12 20:46:58 +0000"
     },
     "done": true
   },
@@ -3809,6 +3887,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-12 20:46:57 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/diamond_hammer": {
     "criteria": {
       "has_diamond_ingot": "2025-01-03 21:21:29 +0000"
@@ -3824,8 +3908,10 @@
       "minecraft:spider": "2025-01-04 03:56:08 +0000",
       "minecraft:evoker": "2025-01-12 18:40:23 +0000",
       "minecraft:zombified_piglin": "2025-01-06 20:53:59 +0000",
+      "minecraft:witch": "2025-01-12 21:56:08 +0000",
       "minecraft:wither_skeleton": "2025-01-12 04:11:20 +0000",
       "minecraft:husk": "2025-01-08 21:10:09 +0000",
+      "minecraft:cave_spider": "2025-01-12 20:40:54 +0000",
       "minecraft:silverfish": "2025-01-05 21:48:53 +0000",
       "minecraft:stray": "2025-01-09 03:13:46 +0000",
       "minecraft:vex": "2025-01-12 18:39:25 +0000",
@@ -3908,6 +3994,12 @@
   "smallships:recipes/lotr_maple_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-12 20:46:58 +0000"
     },
     "done": true
   },
@@ -4184,6 +4276,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 21:12:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-12 20:41:51 +0000"
     },
     "done": true
   },
@@ -4760,6 +4858,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_magenta_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-12 21:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-04 04:14:12 +0000"
@@ -4787,6 +4891,12 @@
   "mcwroofs:recipes/jungle": {
     "criteria": {
       "has_planks": "2025-01-03 20:30:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-12 20:46:58 +0000"
     },
     "done": true
   },
@@ -5330,6 +5440,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-12 20:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:32:43 +0000"
@@ -5728,6 +5844,12 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye_recipe": {
+    "criteria": {
+      "witch_pupil": "2025-01-12 21:56:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:32:43 +0000"
@@ -5773,6 +5895,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-04 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/magenta_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-01-12 21:02:12 +0000"
     },
     "done": true
   },
@@ -5965,6 +6093,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/green_glazed_jar": {
     "criteria": {
       "has_item": "2025-01-08 20:40:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-12 20:46:57 +0000"
     },
     "done": true
   },
@@ -6187,6 +6321,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-01-11 22:59:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-01-12 20:46:58 +0000"
     },
     "done": true
   },
