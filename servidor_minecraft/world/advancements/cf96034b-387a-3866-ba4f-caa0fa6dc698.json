@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "easypaxellite:netherite_paxel": {
+    "criteria": {
+      "has_tools": "2025-01-12 17:57:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-01-08 20:06:01 +0000"
@@ -548,6 +554,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-05 22:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
     },
     "done": true
   },
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-03 20:48:29 +0000"
@@ -869,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-05 17:21:31 +0000"
@@ -920,6 +944,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-01-03 20:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
     },
     "done": true
   },
@@ -1403,6 +1433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2025-01-02 22:09:01 +0000"
@@ -1500,6 +1536,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-12 18:04:09 +0000"
     },
     "done": true
   },
@@ -1764,6 +1806,12 @@
   "smallships:recipes/birch_dhow": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
     },
     "done": true
   },
@@ -2505,6 +2553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-04 17:55:22 +0000"
@@ -2598,6 +2652,12 @@
   "betterendforge:recipes/betterendforge/ender_block": {
     "criteria": {
       "has_ender_pearl": "2025-01-08 21:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
     },
     "done": true
   },
@@ -2826,6 +2886,12 @@
   "smallships:recipes/lotr_beech_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-01-12 18:33:49 +0000"
     },
     "done": true
   },
@@ -3147,6 +3213,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/netherite_hammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:igloos": {
     "criteria": {
       "in_igloo_grassy": "2025-01-05 20:27:40 +0000"
@@ -3330,6 +3402,12 @@
   "undergarden:recipes/undergarden_group/smelt_froststeel_item": {
     "criteria": {
       "has_OptionalNamedTag[undergarden:froststeel_items]": "2025-01-09 03:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
     },
     "done": true
   },
@@ -3524,6 +3602,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-03 20:02:51 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-01-12 18:40:24 +0000"
     },
     "done": true
   },
@@ -3738,11 +3822,13 @@
       "minecraft:skeleton": "2025-01-04 03:59:24 +0000",
       "minecraft:vindicator": "2025-01-11 19:31:06 +0000",
       "minecraft:spider": "2025-01-04 03:56:08 +0000",
+      "minecraft:evoker": "2025-01-12 18:40:23 +0000",
       "minecraft:zombified_piglin": "2025-01-06 20:53:59 +0000",
       "minecraft:wither_skeleton": "2025-01-12 04:11:20 +0000",
       "minecraft:husk": "2025-01-08 21:10:09 +0000",
       "minecraft:silverfish": "2025-01-05 21:48:53 +0000",
       "minecraft:stray": "2025-01-09 03:13:46 +0000",
+      "minecraft:vex": "2025-01-12 18:39:25 +0000",
       "minecraft:zombie": "2025-01-04 04:02:33 +0000"
     },
     "done": false
@@ -4578,6 +4664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-12 18:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-01-04 04:14:12 +0000"
@@ -4899,6 +4991,12 @@
   "smallships:recipes/lotr_cedar_brigg": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
     },
     "done": true
   },
@@ -5786,6 +5884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-01-09 21:42:50 +0000"
@@ -6095,6 +6199,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-12 17:57:54 +0000"
     },
     "done": true
   },
