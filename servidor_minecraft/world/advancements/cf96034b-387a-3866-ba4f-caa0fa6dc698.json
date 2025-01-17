@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-01-17 20:32:17 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/sail_item": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -896,6 +902,12 @@
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-02 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-01-17 20:40:02 +0000"
     },
     "done": true
   },
@@ -1319,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-17 20:40:02 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-01-05 21:12:53 +0000"
@@ -1602,6 +1620,12 @@
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
       "location0": "2025-01-13 20:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-17 22:52:42 +0000"
     },
     "done": true
   },
@@ -2073,6 +2097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-01-17 20:40:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed_by": "2025-01-05 21:22:41 +0000"
@@ -2325,6 +2355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-17 20:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 21:12:25 +0000"
@@ -2523,6 +2559,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-01-05 21:36:32 +0000"
@@ -2562,6 +2604,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-03 21:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-17 21:27:18 +0000"
     },
     "done": true
   },
@@ -2628,6 +2676,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-17 22:53:01 +0000"
     },
     "done": true
   },
@@ -2838,6 +2892,12 @@
   "smallships:recipes/bop_palm_galley": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-17 20:40:02 +0000"
     },
     "done": true
   },
@@ -3276,6 +3336,12 @@
   "smallships:recipes/bop_dead_drakkar": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-01-17 20:40:02 +0000"
     },
     "done": true
   },
@@ -4048,7 +4114,10 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_nether": "2025-01-11 23:38:04 +0000"
+      "in_mineshaft_swamp": "2025-01-17 21:42:56 +0000",
+      "in_mineshaft_taiga": "2025-01-17 21:07:25 +0000",
+      "in_mineshaft_nether": "2025-01-11 23:38:04 +0000",
+      "in_mineshaft_stone": "2025-01-17 21:56:31 +0000"
     },
     "done": false
   },
@@ -4073,6 +4142,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-03 20:41:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-17 22:53:01 +0000"
     },
     "done": true
   },
@@ -4218,6 +4293,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-01-12 20:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-17 20:40:02 +0000"
     },
     "done": true
   },
@@ -4644,6 +4725,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-17 22:52:42 +0000"
     },
     "done": true
   },
@@ -5179,6 +5266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-17 22:52:42 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cedar_cog": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -5323,6 +5416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-17 20:40:02 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_platform": {
     "criteria": {
       "has_planks": "2025-01-02 21:50:05 +0000"
@@ -5462,6 +5561,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-05 17:22:11 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-01-17 20:29:54 +0000"
     },
     "done": true
   },
@@ -5795,6 +5900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-01-17 20:40:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
@@ -5876,6 +5987,12 @@
   "smallships:recipes/envi_wisteria_cog": {
     "criteria": {
       "in_water": "2025-01-02 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-17 20:40:02 +0000"
     },
     "done": true
   },
@@ -6478,6 +6595,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2025-01-08 20:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-17 21:27:18 +0000"
     },
     "done": true
   },
