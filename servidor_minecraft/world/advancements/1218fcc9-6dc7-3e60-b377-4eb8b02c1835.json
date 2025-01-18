@@ -77,9 +77,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-01-18 22:46:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/paper_wall": {
     "criteria": {
       "has_item": "2025-01-11 19:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 20:33:36 +0000"
     },
     "done": true
   },
@@ -161,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-18 20:33:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-02 21:01:47 +0000"
@@ -203,9 +221,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-01-18 22:50:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mallorn_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-18 22:46:59 +0000"
     },
     "done": true
   },
@@ -281,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-18 22:29:03 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_rowboat": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -353,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-18 22:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 19:47:45 +0000"
@@ -398,6 +440,12 @@
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2025-01-17 21:59:55 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-18 23:28:08 +0000"
     },
     "done": true
   },
@@ -557,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-18 22:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-01-12 17:57:42 +0000"
@@ -578,6 +632,12 @@
   "dungeons_arise:find_thornborn_towers": {
     "criteria": {
       "location0": "2025-01-17 20:32:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/soul_brazier": {
+    "criteria": {
+      "has_item": "2025-01-18 20:47:50 +0000"
     },
     "done": true
   },
@@ -1013,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 20:33:36 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/oak_war_galley": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1067,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-18 22:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-01-04 04:01:27 +0000"
@@ -1082,6 +1154,12 @@
   "smallships:recipes/bop_hellbark_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-01-18 20:48:21 +0000"
     },
     "done": true
   },
@@ -1154,6 +1232,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-03 04:47:21 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-01-18 22:34:00 +0000"
     },
     "done": true
   },
@@ -1337,6 +1421,12 @@
     },
     "done": true
   },
+  "mutantmore:mutantmore/heart_of_the_storm": {
+    "criteria": {
+      "mutant_blaze_core": "2025-01-18 20:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-01-11 22:22:19 +0000"
@@ -1463,6 +1553,12 @@
     },
     "done": true
   },
+  "mutantmore:mutantmore/kill_a_mutant": {
+    "criteria": {
+      "mutantmore:mutant_blaze": "2025-01-18 20:59:05 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -1472,6 +1568,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-13 21:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-18 22:49:54 +0000"
     },
     "done": true
   },
@@ -1522,9 +1624,10 @@
       "minecraft:crimson_forest": "2025-01-06 20:28:13 +0000",
       "minecraft:nether_wastes": "2025-01-09 04:26:01 +0000",
       "minecraft:soul_sand_valley": "2025-01-09 04:26:21 +0000",
-      "minecraft:warped_forest": "2025-01-11 23:25:27 +0000"
+      "minecraft:warped_forest": "2025-01-11 23:25:27 +0000",
+      "minecraft:basalt_deltas": "2025-01-18 20:52:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
@@ -1642,9 +1745,16 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_nether": "2025-01-18 20:49:45 +0000",
       "in_pyramid_flower_forest": "2025-01-08 20:32:10 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-18 22:59:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
@@ -2258,6 +2368,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-01-18 20:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-17 21:59:35 +0000"
@@ -2285,6 +2401,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 19:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-18 22:46:59 +0000"
     },
     "done": true
   },
@@ -2468,6 +2590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-01-18 22:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-02 21:03:55 +0000"
@@ -2483,6 +2611,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-03 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-18 20:08:57 +0000"
     },
     "done": true
   },
@@ -2582,6 +2716,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-18 21:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 21:15:44 +0000"
@@ -2663,6 +2803,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-09 23:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye": {
+    "criteria": {
+      "has_berries": "2025-01-18 21:33:00 +0000"
     },
     "done": true
   },
@@ -2758,6 +2904,7 @@
   },
   "repurposed_structures:temples": {
     "criteria": {
+      "in_temple_nether_soul": "2025-01-18 20:46:21 +0000",
       "in_temple_nether_crimson": "2025-01-09 04:27:05 +0000"
     },
     "done": false
@@ -2855,6 +3002,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-03 04:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-18 22:58:55 +0000"
     },
     "done": true
   },
@@ -3062,6 +3215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 20:33:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-02 21:50:26 +0000"
@@ -3083,6 +3242,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-05 21:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-18 22:09:08 +0000"
     },
     "done": true
   },
@@ -3200,6 +3365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-18 22:58:55 +0000"
+    },
+    "done": true
+  },
   "toolleveling:recipes/tool_leveling_table": {
     "criteria": {
       "has_enchanted_book": "2025-01-05 17:03:52 +0000"
@@ -3221,6 +3392,12 @@
   "smallships:recipes/envi_cherry_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-01-18 22:50:49 +0000"
     },
     "done": true
   },
@@ -3319,6 +3496,12 @@
       "in_water": "2025-01-02 20:59:02 +0000"
     },
     "done": true
+  },
+  "mutantmore:mutantmore/kill_all_mutants": {
+    "criteria": {
+      "mutantmore:mutant_blaze": "2025-01-18 20:59:05 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
@@ -3486,7 +3669,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-01-17 21:07:15 +0000"
+      "in_better_monster_room": "2025-01-17 21:07:15 +0000",
+      "in_better_spider_dungeon": "2025-01-18 23:22:56 +0000"
     },
     "done": false
   },
@@ -3529,6 +3713,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-01-02 21:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-18 22:58:55 +0000"
     },
     "done": true
   },
@@ -3604,6 +3794,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-01-18 22:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-09 23:00:21 +0000"
@@ -3634,6 +3830,12 @@
   "smallships:recipes/lotr_apple_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-01-18 22:50:49 +0000"
     },
     "done": true
   },
@@ -3872,6 +4074,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-18 22:46:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-03 04:46:22 +0000"
@@ -4041,6 +4249,12 @@
     },
     "done": true
   },
+  "twist:vomitonsweater": {
+    "criteria": {
+      "vomitonsweater": "2025-01-18 20:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 19:47:45 +0000"
@@ -4098,6 +4312,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-01-13 20:56:05 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_sandstone": {
+    "criteria": {
+      "has_planks": "2025-01-18 22:58:55 +0000"
     },
     "done": true
   },
@@ -4203,6 +4423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-18 22:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2025-01-06 20:48:16 +0000"
@@ -4257,6 +4483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-01-18 22:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-02 20:59:54 +0000"
@@ -4296,6 +4528,12 @@
   "smallships:recipes/acacia_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-18 22:59:12 +0000"
     },
     "done": true
   },
@@ -4577,6 +4815,7 @@
       "minecraft:jungle_hills": "2025-01-03 21:02:49 +0000",
       "minecraft:bamboo_jungle": "2025-01-03 20:34:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-11 04:26:32 +0000",
+      "minecraft:badlands": "2025-01-18 22:50:16 +0000",
       "minecraft:savanna_plateau": "2025-01-03 21:45:00 +0000",
       "minecraft:beach": "2025-01-02 20:53:42 +0000",
       "minecraft:river": "2025-01-02 20:58:59 +0000",
@@ -4604,6 +4843,12 @@
   "mcwbridges:recipes/bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-11 19:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-18 22:58:55 +0000"
     },
     "done": true
   },
@@ -4781,6 +5026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-18 22:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-01-02 21:37:00 +0000"
@@ -4832,6 +5083,12 @@
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2025-01-04 18:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-18 20:47:50 +0000"
     },
     "done": true
   },
@@ -4964,6 +5221,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-01-02 22:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-18 22:58:55 +0000"
     },
     "done": true
   },
@@ -5181,6 +5444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-18 20:33:36 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -5190,6 +5459,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-02 21:02:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/red_sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-18 22:58:55 +0000"
     },
     "done": true
   },
@@ -5559,6 +5834,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-18 22:58:55 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_redwood_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -5655,6 +5936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-18 22:58:55 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_wisteria_cog": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -5676,6 +5963,18 @@
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-01-17 21:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-18 22:09:08 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-18 23:22:56 +0000"
     },
     "done": true
   },
@@ -5781,6 +6080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-18 20:33:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-01-04 18:13:39 +0000"
@@ -5832,6 +6137,12 @@
   "minecraft:recipes/decorations/blue_glazed_terracotta": {
     "criteria": {
       "has_blue_terracotta": "2025-01-05 17:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-18 22:58:55 +0000"
     },
     "done": true
   },
@@ -6000,6 +6311,12 @@
   "undergarden:undergarden/forgotten_battleaxe": {
     "criteria": {
       "has_forgotten_battleaxe": "2025-01-08 20:38:41 +0000"
+    },
+    "done": true
+  },
+  "twist:dermatologist": {
+    "criteria": {
+      "dermatologist": "2025-01-18 21:34:03 +0000"
     },
     "done": true
   },
@@ -6195,6 +6512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-18 20:08:57 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_maple_dhow": {
     "criteria": {
       "in_water": "2025-01-02 20:59:02 +0000"
@@ -6306,6 +6629,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-01-17 21:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-01-18 22:58:55 +0000"
     },
     "done": true
   },
